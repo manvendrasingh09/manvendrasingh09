@@ -1,9 +1,9 @@
-# Hello! I'm Manvendra Singh 👋 <img src="https://komarev.com/ghpvc/?username=ManvendraSingh&label=Profile Views&color=blue&style=flat" alt=“manvendrasingh09”/>  
+# Hello! I'm Manvendra Singh👋 <img src="https://komarev.com/ghpvc/?username=ManvendraSingh&label=Profile Views&color=blue&style=flat" alt=“manvendrasingh09”/>  
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Manvendra%20Singh-blue)](https://www.linkedin.com/in/manvendrasingh09)
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&weight=600&size=30&pause=500&color=0F95E8&center=true&width=435&lines=Welcome+To+My+GitHub+👋">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&weight=600&size=30&pause=500&color=0F95E8&center=true&width=435&lines=Welcome+To+My+GitHub👋">
 </h2>
 
 
