@@ -1,4 +1,4 @@
-# Hiii!!!!, I'm Manvendra Singh 👋 <img src="https://komarev.com/ghpvc/?username=ManvendraSingh&label=Profile Views&color=blue&style=flat" alt=“manvendrasingh09”/>  
+# Hello! I'm Manvendra Singh 👋 <img src="https://komarev.com/ghpvc/?username=ManvendraSingh&label=Profile Views&color=blue&style=flat" alt=“manvendrasingh09”/>  
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Manvendra%20Singh-blue)](https://www.linkedin.com/in/manvendrasingh09)
 
@@ -9,7 +9,7 @@
 
 ## :mortar_board: I’m currently pursuing my B.Tech in Computer Science & Engineering in VIT, Vellore
 ### 🌱 I’m currently learning Web Developement
-### 💬 Ask me about Harry Potter
+### 💬 Ask me about Harry Potter 9¾
 ### 📫 Reach Out to Me On: [Linkedin](https://www.linkedin.com/in/manvendrasingh09)
 -----------------------------
 
