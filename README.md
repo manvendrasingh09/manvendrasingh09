@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hiii!!!!, I'm Manvendra Singh 👋 <img src="https://komarev.com/ghpvc/?username=ManvendraSingh&label=Profile Views&color=blue&style=flat" alt=“manvendrasingh09”/>  
 
-<!--
-**manvendrasingh09/manvendrasingh09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Moulik%20Tejpal-blue)](www.linkedin.com/in/manvendrasingh09)
 
-Here are some ideas to get you started:
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&weight=600&size=30&pause=500&color=0F95E8&center=true&width=435&lines=Success+Depends+On+Second+Letter!">
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## :mortar_board: I’m currently pursuing my B.Tech in Computer Science & Engineering in VIT, Vellore
+### 🌱 I’m currently learning Web Developement
+### 💬 Ask me about Harry Potter
+### 📫 Reach Out to Me On: [Linkedin](www.linkedin.com/in/manvendrasingh09)
+-----------------------------
+
+### Things I program with: 
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="26px"></span>&nbsp;
+<span><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="30px"></span>&nbsp;
+
+### For Web Development, I use:
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
+<!--- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp; -->
+
+### Tools I use:
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px"></span>&nbsp;
+
+## 🏆 My GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MoulikTejpal&count_private=true&theme=ocean-gradient&showicons=true)]()&nbsp;
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MoulikTejpal&langs_count=5&theme=ocean-gradient)]()
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MoulikTejpal&theme=ocean-gradient" /> </p>
