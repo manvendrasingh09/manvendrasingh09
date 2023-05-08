@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Manvendra%20Singh-blue)](www.linkedin.com/in/manvendrasingh09)
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&weight=600&size=30&pause=500&color=0F95E8&center=true&width=435&lines=Welcome+To+My+GitHub">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&weight=600&size=30&pause=500&color=0F95E8&center=true&width=435&lines=Welcome+To+My+GitHub+👋">
 </h2>
 
 
