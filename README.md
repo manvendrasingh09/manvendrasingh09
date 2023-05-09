@@ -15,7 +15,6 @@
 
 ### Things I program with: 
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="26px"></span>&nbsp;
-<span><img
 
 ### Tools I use:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px"></span>&nbsp;
