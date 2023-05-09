@@ -2,10 +2,15 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&weight=600&size=30&pause=500&color=0F95E8&center=true&width=435&lines=Welcome+To+My+GitHub👋">
 </h2>
+
 ## :mortar_board: I’m currently pursuing my B.Tech in Computer Science & Engineering in VIT, Vellore
+
 ### 🌱 I’m currently learning Web Developement
+
 ### 💬 Ask me about Harry Potter 9¾
+
 ### 📫 Mail me at **m.s.jaunpur@gmail.com**
+
 -----------------------------
 
 <h3 align="left">Connect with me:</h3>
