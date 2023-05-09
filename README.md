@@ -10,7 +10,8 @@
 ## :mortar_board: I’m currently pursuing my B.Tech in Computer Science & Engineering in VIT, Vellore
 ### 🌱 I’m currently learning Web Developement
 ### 💬 Ask me about Harry Potter 9¾
-### 📫 Reach Out to Me On: [Linkedin](https://www.linkedin.com/in/manvendrasingh09)
+### Reach Out to Me On: [Linkedin](https://www.linkedin.com/in/manvendrasingh09)
+- 📫 Mail me at **m.s.jaunpur@gmail.com**
 -----------------------------
 
 ### Things I program with: 
