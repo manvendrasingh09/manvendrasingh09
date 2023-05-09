@@ -7,6 +7,7 @@
 ### 🌱 I’m currently learning Web Developement
 ### 💬 Ask me about Harry Potter 9¾
 ### 📫 Mail me at **m.s.jaunpur@gmail.com**
+
 -----------------------------
 
 <h3 align="left">Connect with me:</h3>
