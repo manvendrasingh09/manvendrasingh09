@@ -1,27 +1,26 @@
-# Hello! I'm Manvendra Singh👋 <img src="https://komarev.com/ghpvc/?username=ManvendraSingh&label=Profile Views&color=blue&style=flat" alt=“manvendrasingh09”/>  
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&weight=600&size=30&pause=500&color=0F95E8&center=true&width=435&lines=Welcome+To+My+GitHub👋">
-</h2>
+<h1 align="center">Hi 👋, I'm Manvendra Singh</h1>
+<h3 align="center">I’m currently pursuing my B.Tech in Computer Science & Engineering in VIT, Vellore</h3>
 
-## :mortar_board: I’m currently pursuing my B.Tech in Computer Science & Engineering in VIT, Vellore
-### 🌱 I’m currently learning Web Developement
-### 💬 Ask me about Harry Potter 9¾
-### 📫 Mail me at **m.s.jaunpur@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manvendrasingh09&label=Profile%20views&color=0e75b6&style=flat" alt="manvendrasingh09" /> </p>
 
------------------------------
+- 🌱 I’m currently learning **WebDev and AppDev**
+
+- 💬 Ask me about **Cricket and Harry Potter 9¾**
+
+- 📫 How to reach me **m.s.jaunpur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manvendrasingh09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manvendrasingh09" height="30" width="40" /></a>
 <a href="https://instagram.com/manvendrasingh09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manvendrasingh09" height="30" width="40" /></a>
- 
-### Things I program with: 
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="26px"></span>&nbsp;
-  
-### Tools I use:
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px"></span>&nbsp;
+<a href="https://www.hackerrank.com/m_s_jaunpur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="m_s_jaunpur" height="30" width="40" /></a>
+</p>
 
-## 🏆 My GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=manvendrasingh09&count_private=true&theme=ocean-gradient&showicons=true)]()&nbsp;
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=manvendrasingh09&langs_count=5&theme=ocean-gradient)]()
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=manvendrasingh09&theme=ocean-gradient" /> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manvendrasingh09&show_icons=true&locale=en&layout=compact" alt="manvendrasingh09" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manvendrasingh09&show_icons=true&locale=en" alt="manvendrasingh09" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manvendrasingh09&" alt="manvendrasingh09" /></p>
