@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing my B.Tech in Computer Science & Engineering in VIT, Vellore, TN, India<br>🌱 I’m currently learning App Dev  and Web Dev <br>💬 Ask me about Cricket and Harry Potter 9¾<br>
+🔭 I’m currently pursuing my B.Tech in Computer Science & Engineering from VIT, Vellore, TN, India<br>🌱 I’m currently learning App Dev  and Web Dev <br>💬 Ask me about Cricket and Harry Potter 9¾<br>
 
 
 ## 🌐 Socials:
