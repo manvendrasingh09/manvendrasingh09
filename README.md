@@ -1,9 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently pursuing my B.Tech in Computer Science & Engineering from VIT, Vellore, TN, India<br>🌱 I’m currently learning App Dev  and Web Dev <br>💬 Ask me about Cricket and Harry Potter 9¾<br>
+🔭 I’m currently pursuing my B.Tech in Computer Science & Engineering from VIT, Vellore, TN, India<br>🌱 I’m currently learning App Dev  and Web Dev <br>💬 Ask me about Cricket and Harry Potter 9¾<br>📫Reach me out on **m.s.jaunpur@gmail.com**
 
 
 ## 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(m.s.jaunpur@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/manvendrasingh09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manvendrasingh09) [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-6600-5792)
 
 # 💻 Tech Stack:
