@@ -8,7 +8,8 @@
   <a href="mailto:m.s.jaunpur@gmail.com">📧 Email</a> •
   <a href="https://instagram.com/manvendrasingh09">📸 Instagram</a> •
   <a href="https://linkedin.com/in/manvendrasingh09">💼 LinkedIn</a> •
-  <a href="https://linktr.ee/manvendrasingh09">🌐 Linktree</a>
+  <a href="https://linktr.ee/manvendrasingh09">🌐 Linktree</a> •
+  <a href="https://manvendrasingh.dev">💻 Website</a>
 </p>
 
 ---
@@ -37,6 +38,13 @@
 
 ---
 
+## 💡 Today's Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 ### 🧠 Profile Summary
@@ -61,3 +69,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manvendrasingh09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+---
+
+## 🌍 Visitor Map
+<p align="center">
+  <a href="https://clustrmaps.com/site/1xyz123" title="Visitor Map">
+    <img src="https://www.clustrmaps.com/map_v2.png?d=YOUR_CUSTOM_HASH&cl=ffffff&w=a" alt="ClustrMap" />
+  </a>
+</p>
+
+> 🧭 To activate this, visit [clustrmaps.com](https://clustrmaps.com), sign up, and replace `YOUR_CUSTOM_HASH` with your unique one.
