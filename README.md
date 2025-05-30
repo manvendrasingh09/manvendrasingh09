@@ -17,7 +17,6 @@
 
 - 🎓 B.Tech in Computer Science & Engineering, VIT Vellore  
 - 💡 Passionate about solving problems with technology  
-- 🛠️ Currently diving into **Flutter** and **Web Dev**  
 - 🧠 Always curious to learn something new  
 - ⚡ Fun Fact: I can talk endlessly about **Cricket** and **Harry Potter (Platform 9¾)**!
 
