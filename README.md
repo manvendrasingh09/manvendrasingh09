@@ -1,7 +1,8 @@
 <h1 align="center">Hey there! 👋 I'm Manvendra Singh</h1>
 
 <p align="center">
-  🎓 B.Tech CSE @ <strong>VIT Vellore</strong> | Software Engineer | Flutter Developer | AI/ML Researcher | ⚡ Cricket Enthusiast & Potterhead
+  🎓 B.Tech CSE @ <strong>VIT Vellore</strong> &nbsp;|&nbsp; 💻 Software Engineer & Flutter Developer &nbsp;|&nbsp; 🧠 AI/ML Researcher<br>
+  ⚡ Cricket Enthusiast & Potterhead 🧙‍♂️
 </p>
 
 <p align="center">
