@@ -39,34 +39,6 @@
 
 ---
 
-## 🏆 GitHub Trophy Case
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manvendrasingh09&theme=darkhub&no-bg=true&margin-w=10&margin-h=15" />
-</p>
-
----
-
-## 🌆 GitHub Skyline (3D Contribution City)
-
-<p align="center">
-  <a href="https://skyline.github.com/manvendrasingh09/2024" target="_blank">
-    <img src="https://user-images.githubusercontent.com/674621/216829551-0f45f871-4567-4f55-8387-eae85d43c3d0.png" alt="GitHub Skyline Preview" />
-  </a>
-</p>
-
-> 🎥 View your 3D skyline at [skyline.github.com](https://skyline.github.com) and replace with your own image/gif.
-
----
-
-## 🔥 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manvendrasingh09&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Contribution Heatmap" />
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 ### 🧠 Profile Summary
