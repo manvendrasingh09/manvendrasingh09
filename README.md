@@ -6,11 +6,21 @@
 </p>
 
 <p align="center">
-  <a href="mailto:m.s.jaunpur@gmail.com">📧 Email</a> •
-  <a href="https://instagram.com/manvendrasingh09">📸 Instagram</a> •
-  <a href="https://linkedin.com/in/manvendrasingh09">💼 LinkedIn</a> •
-  <a href="https://linktr.ee/manvendrasingh09">🌐 Linktree</a> •
-  <a href="https://manvendrasingh.dev">💻 Website</a>
+  <a href="mailto:m.s.jaunpur@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/manvendrasingh09">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/manvendrasingh09">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://linktr.ee/manvendrasingh09">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
+  <a href="https://manvendrasingh.dev">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
 </p>
 
 <p align="center">
