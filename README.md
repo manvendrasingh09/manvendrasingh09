@@ -66,17 +66,7 @@
 ---
 
 ## 🧮 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manvendrasingh09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=manvendrasingh09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ---
-
-## 🌍 Visitor Map
-<p align="center">
-  <a href="https://clustrmaps.com/site/1xyz123" title="Visitor Map">
-    <img src="https://www.clustrmaps.com/map_v2.png?d=YOUR_CUSTOM_HASH&cl=ffffff&w=a" alt="ClustrMap" />
-  </a>
-</p>
-
-> 🧭 To activate this, visit [clustrmaps.com](https://clustrmaps.com), sign up, and replace `YOUR_CUSTOM_HASH` with your unique one.
