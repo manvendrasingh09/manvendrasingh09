@@ -59,8 +59,8 @@
 
 ## 📆 Monthly Contribution Activity
 
-> 🗓️ Showing real-time trends for **May 2025**  
-> 💪 Keeping it consistent with quality over quantity!
+> 🗓️ Reflecting my recent coding activity  
+> 🔁 Automatically updates with my latest contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manvendrasingh09&theme=react-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity%20in%20May%202025" alt="GitHub Activity Graph" />
