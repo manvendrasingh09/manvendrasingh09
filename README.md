@@ -39,16 +39,6 @@
 
 ## 📈 GitHub Stats
 
-### 🚀 Contributions & Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=manvendrasingh09&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-### 📊 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendrasingh09&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-
 ### 🧠 Profile Summary
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manvendrasingh09&theme=github_dark" alt="GitHub Profile Summary" />
