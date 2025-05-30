@@ -39,12 +39,29 @@
 
 ---
 
+## 🔥 GitHub Streak (Fire Theme)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manvendrasingh09&theme=firewatch&hide_border=true" alt="GitHub Streak Fire Theme" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 ### 🧠 Profile Summary
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manvendrasingh09&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
+
+---
+
+## 📊 GitHub Metrics Panel
+
+<p align="center">
+  <img src="https://github.com/manvendrasingh09/github-metrics/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+> 🛠️ Make sure to set up [GitHub Metrics](https://github.com/lowlighter/metrics) in your own repo with GitHub Actions to display this properly.
 
 ---
 
@@ -59,8 +76,14 @@
 
 ---
 
+## 📊 Coding Activity Trend
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manvendrasingh09&theme=github-compact&custom_title=Coding%20Activity%20Trends" />
+</p>
+
+---
+
 ## 🧮 Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=manvendrasingh09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
----
