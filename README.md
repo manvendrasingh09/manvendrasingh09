@@ -7,10 +7,7 @@
 ---
 
 ## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/manvendrasingh09)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manvendrasingh09)  
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-6600-5792)  
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/manvendrasingh09)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/manvendrasingh09)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manvendrasingh09)  [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-6600-5792)  [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/manvendrasingh09)
 
 ---
 
@@ -46,7 +43,7 @@
 
 ---
 
-## 🗺️ Contribution Graph
+## 🗺️ Monthly Contribution Chart
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manvendrasingh09&theme=react-dark&hide_border=true)
 
