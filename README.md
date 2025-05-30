@@ -7,10 +7,7 @@
 ---
 
 ## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/manvendrasingh09)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manvendrasingh09)  
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-6600-5792)  
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/manvendrasingh09)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/manvendrasingh09)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manvendrasingh09)  [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-6600-5792)  [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/manvendrasingh09)
 
 ---
 
@@ -34,16 +31,12 @@
 ---
 
 ## 📈 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=manvendrasingh09&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manvendrasingh09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://streak-stats.demolab.com/?user=manvendrasingh09&theme=dark&hide_border=false" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendrasingh09&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 
 ---
 
-<!-- Visitor badge (Optional: Re-enable with a working one or remove) -->
-<!--
-[![](https://visitcount.itsvg.in/api?id=manvendrasingh09&icon=1&color=0)](https://visitcount.itsvg.in)
--->
-
-<!-- Consider using this alternative badge for reliability -->
+## 🧮 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=manvendrasingh09&label=Profile%20Views&color=0e75b6&style=flat)
-
