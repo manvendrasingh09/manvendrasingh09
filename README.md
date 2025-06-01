@@ -61,11 +61,20 @@
 
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manvendrasingh09&theme=github_dark" /></td>
+    <td></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendrasingh09&layout=compact&theme=github_dark&langs_count=8" /></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=manvendrasingh09&theme=react" /></td>
   </tr>
 </table>
+
+---
+
+### 📌 Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manvendrasingh09&theme=github_dark" />
+</p>
+
+---
 
 ### 📈 Contributions Graph
 <p align="center">
