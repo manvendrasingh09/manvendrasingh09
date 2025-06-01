@@ -41,11 +41,11 @@
 ### 📱 Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### 🔧 Productivity
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -59,24 +59,17 @@
 
 ## 📊 GitHub Stats
 
-### 📌 Profile Summary
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manvendrasingh09&theme=github_dark" />
-</p>
-
-### 💻 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manvendrasingh09&theme=react" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manvendrasingh09&theme=github_dark" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendrasingh09&layout=compact&theme=github_dark&langs_count=8" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=manvendrasingh09&theme=react" /></td>
+  </tr>
+</table>
 
 ### 📈 Contributions Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manvendrasingh09&theme=react-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity" />
-</p>
-
-### 📊 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendrasingh09&layout=compact&theme=github_dark&langs_count=8" />
 </p>
 
 ---
