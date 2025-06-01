@@ -78,7 +78,7 @@
 > 🔁 Automatically updates with my latest contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manvendrasingh09&theme=react-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity%20in%20May%202025" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manvendrasingh09&theme=react-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity" alt="GitHub Activity Graph" />
 </p>
 
 ---
