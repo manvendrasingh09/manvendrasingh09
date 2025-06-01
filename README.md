@@ -46,7 +46,6 @@
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Cloudflare](https://img.shields.io/badge/Cloud_Computing-00C7B7?style=for-the-badge&logo=cloudflare)
 
 ### 🔧 Productivity
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
