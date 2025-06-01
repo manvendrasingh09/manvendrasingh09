@@ -22,7 +22,6 @@
 ## 🚀 About Me
 
 - 🎓 Final-year CSE student at **VIT Vellore**
-- 💻 Flutter Developer | Backend Enthusiast | ML Explorer
 - 🧠 Passionate about building impactful tech solutions
 - 🌱 Currently diving deep into **AI/ML**, **Cloud**, and **Mobile Dev**
 - 🗣️ Always open to learning and collaboration
