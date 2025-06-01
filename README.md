@@ -59,13 +59,17 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendrasingh09&layout=compact&theme=github_dark&langs_count=8" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=manvendrasingh09&theme=react" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendrasingh09&layout=compact&theme=github_dark&langs_count=8" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manvendrasingh09&theme=react" />
+</p>
+
+### 📈 Contributions Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manvendrasingh09&theme=react-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity" />
+</p>
+
 
 ---
 
