@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:m.s.jaunpur@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/manvendrasingh09"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/manvendrasingh09"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=simple-icons&logoColor=white&label=LinkedIn&logo=linkedin" /></a>
+  <a href="https://linkedin.com/in/manvendrasingh09"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://linktr.ee/manvendrasingh09"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
   <a href="https://manvendrasingh.dev"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
