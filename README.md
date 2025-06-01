@@ -65,12 +65,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manvendrasingh09&theme=react" />
 </p>
 
-### 📈 Contributions Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manvendrasingh09&theme=react-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity" />
-</p>
-
-
 ---
 
 ### 📌 Profile Summary
@@ -82,7 +76,7 @@
 
 ### 📈 Contributions Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manvendrasingh09&theme=react-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manvendrasingh09&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Flow" />
 </p>
 
 ---
